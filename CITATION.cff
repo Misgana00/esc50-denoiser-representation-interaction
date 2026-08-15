@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "Denoiser–Representation Interaction in Noise-Robust ESC: Code and Reproducibility Package"
+type: software
+authors:
+  - family-names: Endashaw
+    given-names: Mhretewold
+    affiliation: "Higher Colleges of Technology, Abu Dhabi, UAE"
+  - family-names: Yoseph
+    given-names: Eden
+    affiliation: "Higher Colleges of Technology, Abu Dhabi, UAE"
+  - family-names: Getnet
+    given-names: Kalkidan
+    affiliation: "Higher Colleges of Technology, Abu Dhabi, UAE"
+  - family-names: Damtew
+    given-names: Misgana
+    affiliation: "Higher Colleges of Technology, Abu Dhabi, UAE"
+  - family-names: Zyout
+    given-names: Imad
+    affiliation: "Higher Colleges of Technology, Abu Dhabi, UAE"
+    email: izyout@hct.ac.ae
+repository-code: "https://github.com/<your-org-or-username>/esc50-denoiser-representation-interaction"
+license: MIT
+version: "1.0.0"
+date-released: "2026-XX-XX"
+preferred-citation:
+  type: article
+  title: "Denoiser–Representation Interaction in Noise-Robust ESC: A Systematic Study of Classical and Learned Enhancement Methods"
+  authors:
+    - family-names: Endashaw
+      given-names: Mhretewold
+    - family-names: Yoseph
+      given-names: Eden
+    - family-names: Getnet
+      given-names: Kalkidan
+    - family-names: Damtew
+      given-names: Misgana
+    - family-names: Zyout
+      given-names: Imad
+  journal: "International Journal of Artificial Intelligence (IJ-AI)"
+  issn: "2252-8938"
+  year: 2026
