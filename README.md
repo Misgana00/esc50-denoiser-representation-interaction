@@ -14,7 +14,7 @@ at SNR levels from −10 dB to 10 dB.
 |---|---|---|---|
 | 1 | Raw waveform | 1D CNN (trained from scratch) | [`pipelines/1d_cnn`](pipelines/1d_cnn) |
 | 2 | MFCC + deltas | Subspace Discriminant Ensemble | [`pipelines/mfcc_ensemble`](pipelines/mfcc_ensemble) |
-| 3 | Log-mel spectrogram | CNN14 (AudioSet-pretrained) | [`pipelines/cnn14`](pipelines/cnn14) |
+| 3 | Log-mel spectrogram | CNN14 (AudioSet-pretrained) | [`pipelines/cnn14`](pipelines/cnn_14) |
 
 All statistical results reported in the paper (Tables 4–6: recovery, 95% CI, Cohen's *d*z,
 paired *t*-tests, BH-FDR / Holm-Bonferroni correction) are recomputed directly from the raw
