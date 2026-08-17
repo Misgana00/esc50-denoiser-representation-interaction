@@ -40,7 +40,7 @@ pipelines/
 
 analysis/
   statistical_analysis_reproducibility.ipynb   # recomputes Tables 4-6 from results/per_run_csv, no hand-entered numbers
-
+  sisdr_evaluation.ipynb                       # computes SI-SDR improvement (Table 8) across all three pipelines
 results/
   per_run_csv/          # raw per-run accuracy, five seed-matched runs per condition (n=5)
     gaussian_unet_per_run.csv     # 1D CNN, Gaussian noise
